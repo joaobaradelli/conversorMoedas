@@ -19,3 +19,8 @@ npm install
 npm install @react-native-async-storage/async-storage
 npm install axios
 npm install @react-native-picker/picker
+
+2. Após instalar as dependências, para iniciar o projeto no seu ambiente local, execute o comando:
+
+```bash
+npx expo start
