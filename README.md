@@ -1,6 +1,6 @@
-# Conversor de Moedas Mobile 💰
+# 📱 Conversor de Moedas
 
-Este projeto foi desenvolvido por **João Pedro Baradelli Pavan** e **José Gabriel Cezário Barreto**, alunos do 3º Ano de Desenvolvimento de Software da **ETEC Euro Albino de Souza**.
+Projeto desenvolvido por **João Pedro Baradelli Pavan** e **José Gabriel Cezário Barreto**, do 3º Ano de Desenvolvimento de Sistemas da **ETEC Euro Albino de Souza**.
 
 ## 🛠 Tecnologias Utilizadas
 
