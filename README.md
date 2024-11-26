@@ -1,16 +1,16 @@
-# 📱 Projeto Mobile - ETEC Euro Albino de Souza
+# Conversor de Moedas Mobile 💰
 
-Este é o projeto desenvolvido por **João Pedro Baradelli Pavan** e **José Gabriel Cezário Barreto**, alunos do curso Técnico em Desenvolvimento de Software da **ETEC Euro Albino de Souza**.
+Este projeto foi desenvolvido por **João Pedro Baradelli Pavan** e **José Gabriel Cezário Barreto**, alunos do 3º Ano de Desenvolvimento de Software da **ETEC Euro Albino de Souza**.
 
 ## 🛠 Tecnologias Utilizadas
 
-- **React Native** 📱
-- **Axios** 🌐
-- **AsyncStorage** 💾
-- **React Native Picker** 🔽
-- **Expo** ⚛️
+- **React Native** 
+- **Axios** 
+- **AsyncStorage** 
+- **React Native Picker** 
+- **Expo** ⚛
 
-## 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
 1. Para instalar as dependências necessárias, execute o seguinte comando:
 
