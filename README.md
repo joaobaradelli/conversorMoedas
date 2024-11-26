@@ -8,7 +8,7 @@ Projeto desenvolvido por **João Pedro Baradelli Pavan** e **José Gabriel Cezá
 - **Axios** 
 - **AsyncStorage** 
 - **React Native Picker** 
-- **Expo** ⚛
+- **Expo**
 
 ## Como Rodar o Projeto
 
