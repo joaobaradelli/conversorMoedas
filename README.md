@@ -29,7 +29,7 @@ npx expo start
 ```
 
 ## ATENÇÃO 📝
-Expo SDK Versão 52+ (Atualizar o aplicativo Expo Go se necessário)
+Projeto desenvolvido com Expo SDK Versão 52+ (Atualizar o aplicativo Expo Go se necessário)
 
 ## Desenvolvedores
 - João Pedro Baradelli Pavan
