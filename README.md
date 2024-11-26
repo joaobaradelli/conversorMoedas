@@ -28,7 +28,7 @@ npm install expo-router
 npx expo start
 ```
 
-## ATENÇÃO 📝
+## Atenção ⚠️
 Projeto desenvolvido com Expo SDK Versão 52+ (Atualizar o aplicativo Expo Go se necessário)
 
 ## Desenvolvedores
