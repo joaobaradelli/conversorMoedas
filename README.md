@@ -28,12 +28,8 @@ npm install expo-router
 npx expo start
 ```
 
-## Problemas 📝
-Embora o processo de login e logout funcione corretamente, existe um problema de exibição dos dados do usuário logado no campo superior do aplicativo. No ambiente de desenvolvimento localhost, os dados aparecem corretamente, mas no APK, eles não são exibidos.
-
-Como o problema se manifesta:
-**Login/Logout:** Funciona normalmente.
-**Exibição do usuário logado:** Não aparece no APK, mas é exibido corretamente no navegador/localhost.
+## ATENÇÃO 📝
+Expo SDK Versão 52+ (Atualizar o aplicativo Expo Go se necessário)
 
 ## Desenvolvedores
 - João Pedro Baradelli Pavan
