@@ -33,3 +33,7 @@ Embora o processo de login e logout funcione corretamente, existe um problema de
 Como o problema se manifesta:
 **Login/Logout:** Funciona normalmente.
 **Exibição do usuário logado:** Não aparece no APK, mas é exibido corretamente no navegador/localhost.
+
+## Desenvolvedores
+- João Pedro Baradelli Pavan
+- José Gabriel Cezário Barreto
