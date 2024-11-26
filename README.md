@@ -1,9 +1,21 @@
-Projeto feito por:
-João Pedro Baradelli Pavan
-José Gabriel Cezário Barreto
-3º DS na ETEC Euro Albino de Souza
+# 📱 Projeto Mobile - ETEC Euro Albino de Souza
 
-Comandos para rodar o programa:
-npm install | npm install @react-native-async-storage/async-storage | npm install axios | npm install @react-native-picker/picker | npx expo start
+Este é o projeto desenvolvido por **João Pedro Baradelli Pavan** e **José Gabriel Cezário Barreto**, alunos do curso Técnico em Desenvolvimento de Software da **ETEC Euro Albino de Souza**.
 
-O projeto continua com o mesmo problema dos antigos. No APK, os dados do usuário logado não são exibidos no campo superior, por mais que o processo de login e logout funcionem. No localhost tudo continua funcionando.
+## 🛠 Tecnologias Utilizadas
+
+- **React Native** 📱
+- **Axios** 🌐
+- **AsyncStorage** 💾
+- **React Native Picker** 🔽
+- **Expo** ⚛️
+
+## 🚀 Como Rodar o Projeto
+
+1. Para instalar as dependências necessárias, execute o seguinte comando:
+
+```bash
+npm install
+npm install @react-native-async-storage/async-storage
+npm install axios
+npm install @react-native-picker/picker
