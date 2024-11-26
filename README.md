@@ -25,6 +25,9 @@ npm install @react-native-picker/picker
 npx expo start
 ```
 
+## ATENÇÃO 📝
+Expo SDK Versão 52+ (Atualizar o aplicativo Expo Go se necessário)
+
 ## Desenvolvedores
 - João Pedro Baradelli Pavan
 - José Gabriel Cezário Barreto
