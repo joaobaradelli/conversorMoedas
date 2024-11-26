@@ -12,7 +12,7 @@ Projeto desenvolvido por **João Pedro Baradelli Pavan** e **José Gabriel Cezá
 
 ## Como Rodar o Projeto
 
-1. Para instalar as dependências necessárias, execute o seguinte comando:
+1. Após fazer o download do projeto, na pasta, instalar as dependências necessárias, executando os seguintes comandos:
 
 ```bash
 npm install
